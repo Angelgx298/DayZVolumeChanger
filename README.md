@@ -1,6 +1,9 @@
 # DayZ Volume Changer
-##### Install Python on your PC, open cmd and start the script with "python toggle.py".
+1. Install Python on your PC,
+2. Open cmd and run "pip install -r requirements.txt" to install the needed libraries.
+3. Run the script in cmd: "python toggle.py".
 ##### Press P to toggle DayZ volume and press Ñ to stop the script.
 ##### Feel free to edit the keys in the code.
-1. Edit the toggle key in Line 45.
-2. Edit the finish script key in Line 48.
+## Info:
+##### Edit the toggle key in Line 45.
+##### Edit the finish script key in Line 48.
