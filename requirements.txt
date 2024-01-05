@@ -1,2 +1,4 @@
+ctypes
 comtypes
 pycaw
+keyboard
